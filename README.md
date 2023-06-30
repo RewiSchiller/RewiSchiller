@@ -1,0 +1,3 @@
+-  Hi, I’m @RewiSchiller
+-  I’m interested in coding and game development
+-  I’m currently learning HTML and Java, I've learnt some Python and Unity C#
